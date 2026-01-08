@@ -1,2 +1,3 @@
-# big_data
-Assignments for graduate level Big Data course
+# Examining Census Data
+
+Processes Census data regarding Educational Attainment in the United States.
